@@ -1,0 +1,45 @@
+{
+    "Product": {
+        "Name": "Red Hat Enterprise Linux",
+        "Type": "OS",
+        "Source_URL": "https://access.redhat.com/support/policy/updates/errata",
+        "Supports": [
+            {
+                "Name": "Maintenance Support or Maintenance Support 2 ends",
+                "Type": "Paid-Service",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2029-05-31"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2024-06-30"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2020-11-30"
+                    }
+                ]
+            },
+            {
+                "Name": "Extended life cycle support (ELS) add-on ends",
+                "Type": "Paid-Service",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2020-11-30"
+                    }
+                ]
+            }
+        ]
+    }
+}
