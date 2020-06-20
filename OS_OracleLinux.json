@@ -1,0 +1,57 @@
+{
+    "Product": {
+        "Name": "Oracle Linux",
+        "Type": "OS",
+        "Source_URL": [
+            "https://www.oracle.com/a/ocom/docs/elsp-lifetime-069338.pdf"
+        ],
+        "Supports": [
+            {
+                "Name": "Premier Support Ends",
+                "Type": "Paid-Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2029-07"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2024-07"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2021-03"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2017-06"
+                    },
+                    {
+                        "Version": "4",
+                        "Date": "2013-02"
+                    },
+                    {
+                        "Version": "3",
+                        "Date": "2011-10"
+                    }
+                ]
+            },
+            {
+                "Name": "Extended Support Ends",
+                "Type": "Paid-Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "6",
+                        "Date": "2024-03"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2020-11"
+                    }
+                ]
+            }
+        ]
+    }
+}
