@@ -10,6 +10,7 @@
             {
                 "Name": "Maintenance Support or Maintenance Support 2 ends",
                 "Type": "Paid-Service",
+                "Provider": "Red Hat",
                 "EOLs": [
                     {
                         "Version": "8",
@@ -40,6 +41,7 @@
             {
                 "Name": "Extended life cycle support (ELS) add-on ends",
                 "Type": "Paid-Service",
+                "Provider": "Red Hat",
                 "EOLs": [
                     {
                         "Version": "8",
