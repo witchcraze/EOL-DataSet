@@ -1,0 +1,195 @@
+{
+    "Product": {
+        "Name": "FreeBSD",
+        "Type": "OS",
+        "Source_URL": [
+            "https://www.freebsd.org/security/unsupported.html",
+            "https://www.freebsd.org/security/security.html#sup"
+        ],
+        "Supports": [
+            {
+                "Name": "EoL",
+                "Type": "Community Base Service",
+                "Provider": "FreeBSD  Community",
+                "EOLs": [
+                    {
+                        "Version": "stable/12",
+                        "Date": "2024-06-30"
+                    },
+                    {
+                        "Version": "releng/12.1",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "releng/12.0",
+                        "Date": "2020-02-29"
+                    },
+                    {
+                        "Version": "stable/11",
+                        "Date": "2021-09-30"
+                    },
+                    {
+                        "Version": "releng/11.4",
+                        "Date": "11.4-RELEASE end-of-life"
+                    },
+                    {
+                        "Version": "releng/11.3",
+                        "Date": "2020-09-20"
+                    },
+                    {
+                        "Version": "releng/11.2",
+                        "Date": "2019-10-31"
+                    },
+                    {
+                        "Version": "releng/11.1",
+                        "Date": "2018-09-30"
+                    },
+                    {
+                        "Version": "releng/11.0",
+                        "Date": "2017-11-30"
+                    },
+                    {
+                        "Version": "stable/10",
+                        "Date": "2018-10-31"
+                    },
+                    {
+                        "Version": "releng/10.4",
+                        "Date": "2018-10-31"
+                    },
+                    {
+                        "Version": "releng/10.3",
+                        "Date": "2018-04-30"
+                    },
+                    {
+                        "Version": "releng/10.2",
+                        "Date": "2016-12-31"
+                    },
+                    {
+                        "Version": "releng/10.1",
+                        "Date": "2016-12-31"
+                    },
+                    {
+                        "Version": "releng/10.0",
+                        "Date": "2015-02-28"
+                    },
+                    {
+                        "Version": "stable/9",
+                        "Date": "2016-12-31"
+                    },
+                    {
+                        "Version": "releng/9.3",
+                        "Date": "2016-12-31"
+                    },
+                    {
+                        "Version": "releng/9.2",
+                        "Date": "2014-12-31"
+                    },
+                    {
+                        "Version": "releng/9.1",
+                        "Date": "2014-12-31"
+                    },
+                    {
+                        "Version": "releng/9.0",
+                        "Date": "2013-03-31"
+                    },
+                    {
+                        "Version": "stable/8",
+                        "Date": "2015-10-01"
+                    },
+                    {
+                        "Version": "releng/8.4",
+                        "Date": "2015-10-01"
+                    },
+                    {
+                        "Version": "releng/8.3",
+                        "Date": "2014-04-30"
+                    },
+                    {
+                        "Version": "releng/8.2",
+                        "Date": "2012-07-31"
+                    },
+                    {
+                        "Version": "releng/8.1",
+                        "Date": "2012-07-31"
+                    },
+                    {
+                        "Version": "releng/8.0",
+                        "Date": "2010-11-30"
+                    },
+                    {
+                        "Version": "stable/7",
+                        "Date": "2013-02-28"
+                    },
+                    {
+                        "Version": "releng/7.4",
+                        "Date": "2013-02-28"
+                    },
+                    {
+                        "Version": "releng/7.3",
+                        "Date": "2012-03-31"
+                    },
+                    {
+                        "Version": "releng/7.2",
+                        "Date": "2010-06-30"
+                    },
+                    {
+                        "Version": "releng/7.1",
+                        "Date": "2011-02-28"
+                    },
+                    {
+                        "Version": "releng/7.0",
+                        "Date": "2009-04-30"
+                    },
+                    {
+                        "Version": "stable/6",
+                        "Date": "2010-11-30"
+                    },
+                    {
+                        "Version": "releng/6.4",
+                        "Date": "2010-11-30"
+                    },
+                    {
+                        "Version": "releng/6.3",
+                        "Date": "2010-01-31"
+                    },
+                    {
+                        "Version": "releng/6.2",
+                        "Date": "2008-05-31"
+                    },
+                    {
+                        "Version": "releng/6.1",
+                        "Date": "2008-05-31"
+                    },
+                    {
+                        "Version": "releng/6.0",
+                        "Date": "2007-01-31"
+                    },
+                    {
+                        "Version": "stable/5",
+                        "Date": "2008-05-31"
+                    },
+                    {
+                        "Version": "releng/5.5",
+                        "Date": "2008-05-31"
+                    },
+                    {
+                        "Version": "releng/5.4",
+                        "Date": "2006-10-31"
+                    },
+                    {
+                        "Version": "releng/5.3",
+                        "Date": "2006-10-31"
+                    },
+                    {
+                        "Version": "stable/4",
+                        "Date": "2007-01-31"
+                    },
+                    {
+                        "Version": "releng/4.11",
+                        "Date": "2007-01-31"
+                    }
+                ]
+            }
+        ]
+    }
+}
