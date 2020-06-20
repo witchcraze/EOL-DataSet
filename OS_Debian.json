@@ -1,0 +1,118 @@
+{
+    "Product": {
+        "Name": "Debian",
+        "Type": "OS",
+        "Source_URL": [
+            "https://wiki.debian.org/DebianReleases",
+            "https://wiki.debian.org/LTS",
+            "https://wiki.debian.org/LTS/Extended"
+        ],
+        "Supports": [
+            {
+                "Name": "End of life date",
+                "Type": "Community Base Service",
+                "Provider": "Debian Community",
+                "EOLs": [
+                    {
+                        "Version": "12",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "10",
+                        "Date": "TBD(~2022)"
+                    },
+                    {
+                        "Version": "9",
+                        "Date": "2020-07-06"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2018-06-17"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2016-04-25"
+                    },
+                    {
+                        "Version": "6.0",
+                        "Date": "2014-05-31"
+                    },
+                    {
+                        "Version": "5.0",
+                        "Date": "2012-02-06"
+                    },
+                    {
+                        "Version": "4.0",
+                        "Date": "2010-02-15"
+                    },
+                    {
+                        "Version": "3.1",
+                        "Date": "2008-03-31"
+                    },
+                    {
+                        "Version": "3.0",
+                        "Date": "2006-06-30"
+                    },
+                    {
+                        "Version": "2.2",
+                        "Date": "2003-06-30"
+                    },
+                    {
+                        "Version": "2.1",
+                        "Date": "2000-09-30"
+                    }
+                ]
+            },
+            {
+                "Name": "EOL LTS",
+                "Type": "Community Base Service",
+                "Provider": "Debian Community",
+                "EOLs": [
+                    {
+                        "Version": "9",
+                        "Date": "TBD(~2022)"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2020-06-30"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2018-05-31"
+                    },
+                    {
+                        "Version": "6.0",
+                        "Date": "2016-02-29"
+                    },
+                    {
+                        "Version": "2.1",
+                        "Date": "2000-10-30"
+                    }
+                ]
+            },
+            {
+                "Name": "EOL ELTS",
+                "Type": "Paid-Service",
+                "Provider": "Freexian",
+                "EOLs": [
+                    {
+                        "Version": "9",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2020-06-30"
+                    }
+                ]
+            }
+        ]
+    }
+}
