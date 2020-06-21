@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Ubuntu",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://wiki.ubuntu.com/Releases",
             "https://ubuntu.com/esm"
         ],

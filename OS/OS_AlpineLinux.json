@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Alpine Linux",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases"
         ],
         "Supports": [

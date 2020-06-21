@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Red Hat Enterprise Linux",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://access.redhat.com/support/policy/updates/errata",
             "https://web.archive.org/web/*/https://access.redhat.com/support/policy/updates/errata/"
         ],

@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Debian",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://wiki.debian.org/DebianReleases",
             "https://wiki.debian.org/LTS",
             "https://wiki.debian.org/LTS/Extended"

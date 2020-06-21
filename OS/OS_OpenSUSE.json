@@ -2,7 +2,7 @@
     "Product": {
         "Name": "openSUSE",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://en.opensuse.org/Lifetime"
         ],
         "Supports": [

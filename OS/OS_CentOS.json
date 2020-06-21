@@ -2,7 +2,7 @@
     "Product": {
         "Name": "CentOS Linux",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://wiki.centos.org/About/Product",
             "https://wiki.centos.org/HowTos/EOL"
         ],

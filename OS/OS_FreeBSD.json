@@ -2,7 +2,7 @@
     "Product": {
         "Name": "FreeBSD",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://www.freebsd.org/security/unsupported.html",
             "https://www.freebsd.org/security/security.html#sup"
         ],

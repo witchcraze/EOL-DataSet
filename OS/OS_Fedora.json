@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Fedora",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://fedoraproject.org/wiki/End_of_life"
         ],
         "Supports": [

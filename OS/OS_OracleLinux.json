@@ -2,7 +2,7 @@
     "Product": {
         "Name": "Oracle Linux",
         "Type": "OS",
-        "Source_URL": [
+        "Source_URLs": [
             "https://www.oracle.com/a/ocom/docs/elsp-lifetime-069338.pdf"
         ],
         "Supports": [
