@@ -1,0 +1,141 @@
+{
+    "Product": {
+        "Name": "Perl",
+        "Type": "Lang",
+        "Source_URLs": [
+            "http://www.cpan.org/src/",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "End of life",
+                "Type": "Community Base Service",
+                "Provider": "Perl Community",
+                "EOLs": [
+                    {
+                        "Version": "5.32",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "5.30",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "5.28",
+                        "Date": "2020-06-01"
+                    },
+                    {
+                        "Version": "5.26",
+                        "Date": "2018-11-29"
+                    },
+                    {
+                        "Version": "5.24",
+                        "Date": "2018-04-14"
+                    },
+                    {
+                        "Version": "5.22",
+                        "Date": "2017-07-15"
+                    },
+                    {
+                        "Version": "5.20",
+                        "Date": "2015-09-12"
+                    },
+                    {
+                        "Version": "5.18",
+                        "Date": "2014-10-02"
+                    },
+                    {
+                        "Version": "5.16",
+                        "Date": "2013-03-11"
+                    },
+                    {
+                        "Version": "5.14",
+                        "Date": "2013-03-10"
+                    },
+                    {
+                        "Version": "5.12",
+                        "Date": "2012-11-10"
+                    },
+                    {
+                        "Version": "5.10",
+                        "Date": "2009-08-23"
+                    },
+                    {
+                        "Version": "5.8",
+                        "Date": "2008-12-14"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2003-11-15"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "1999-03-29"
+                    },
+                    {
+                        "Version": "5.4",
+                        "Date": "1999-04-29"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "5.24",
+                        "Date": "2021-05"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "5.30",
+                        "Date": "2024-06"
+                    },
+                    {
+                        "Version": "5.26",
+                        "Date": "2021-05"
+                    },
+                    {
+                        "Version": "5.24",
+                        "Date": "2019-11"
+                    },
+                    {
+                        "Version": "5.20",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.16",
+                        "Date": "2016-10"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 6",
+                "Type": "Paid Service(RHEL6)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "5.24",
+                        "Date": "2019-11"
+                    },
+                    {
+                        "Version": "5.20",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.16",
+                        "Date": "2016-10"
+                    }
+                ]
+            }
+        ]
+    }
+}
