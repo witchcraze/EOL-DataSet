@@ -1,0 +1,142 @@
+{
+    "Product": {
+        "Name": "Python",
+        "Type": "Lang",
+        "Source_URLs": [
+            "https://devguide.python.org/#branchstatus",
+            "https://devguide.python.org/devcycle/#end-of-life-branches",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "End-of-life",
+                "Type": "Community Base Service",
+                "Provider": "Python Community",
+                "EOLs": [
+                    {
+                        "Version": "3.9",
+                        "Date": "TBD"
+                    },
+                    {
+                        "Version": "3.8",
+                        "Date": "2024-10"
+                    },
+                    {
+                        "Version": "3.7",
+                        "Date": "2023-06-27"
+                    },
+                    {
+                        "Version": "3.6",
+                        "Date": "2021-12-23"
+                    },
+                    {
+                        "Version": "3.5",
+                        "Date": "2020-09-13"
+                    },
+                    {
+                        "Version": "3.4",
+                        "Date": "2019-03-18"
+                    },
+                    {
+                        "Version": "3.3",
+                        "Date": "2017-09-29"
+                    },
+                    {
+                        "Version": "3.2",
+                        "Date": "2016-02-20"
+                    },
+                    {
+                        "Version": "3.1",
+                        "Date": "2012-04-09"
+                    },
+                    {
+                        "Version": "3.0",
+                        "Date": "2009-06-27"
+                    },
+                    {
+                        "Version": "2.7",
+                        "Date": "2020-01-01"
+                    },
+                    {
+                        "Version": "2.6",
+                        "Date": "2013-10-29"
+                    },
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "3.8",
+                        "Date": "2023-05"
+                    },
+                    {
+                        "Version": "2.7",
+                        "Date": "2024-06"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "3.8",
+                        "Date": "2023-05"
+                    },
+                    {
+                        "Version": "3.6",
+                        "Date": "2020-10"
+                    },
+                    {
+                        "Version": "3.5",
+                        "Date": "2019-05"
+                    },
+                    {
+                        "Version": "3.4",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "3.3",
+                        "Date": "2016-10"
+                    },
+                    {
+                        "Version": "2.7",
+                        "Date": "2022-07"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 6",
+                "Type": "Paid Service(RHEL6)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "3.6",
+                        "Date": "2020-10"
+                    },
+                    {
+                        "Version": "3.5",
+                        "Date": "2019-05"
+                    },
+                    {
+                        "Version": "3.4",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "3.3",
+                        "Date": "2016-10"
+                    },
+                    {
+                        "Version": "2.7",
+                        "Date": "2020-04"
+                    }
+                ]
+            }
+        ]
+    }
+}
