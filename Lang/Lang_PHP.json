@@ -4,7 +4,9 @@
         "Type": "Lang",
         "Source_URLs": [
             "https://www.php.net/supported-versions.php",
-            "https://www.php.net/eol.php"
+            "https://www.php.net/eol.php",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
         ],
         "Supports": [
             {
@@ -83,6 +85,21 @@
                     {
                         "Version": "3.0",
                         "Date": "2000-10-20"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat",
+                "EOLs": [
+                    {
+                        "Version": "7.3",
+                        "Date": "2021-11"
+                    },
+                    {
+                        "Version": "7.2",
+                        "Date": "2021-05"
                     }
                 ]
             }
