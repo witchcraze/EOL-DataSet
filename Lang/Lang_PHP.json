@@ -91,7 +91,7 @@
             {
                 "Name": "Red Hat Enterprise Linux 8 Application Streams",
                 "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
-                "Provider": "Red Hat",
+                "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
                         "Version": "7.3",
@@ -101,6 +101,41 @@
                         "Version": "7.2",
                         "Date": "2021-05"
                     }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "7.3",
+                        "Date": "2021-12"
+                    },
+                    {
+                        "Version": "7.2",
+                        "Date": "2020-11"
+                    },
+                    {
+                        "Version": "7.1",
+                        "Date": "2019-10"
+                    },
+                    {
+                        "Version": "7.0",
+                        "Date": "2019-11"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2016-10"
+                    },
+                    {
+                        "Version": "5.4",
+                        "Date": "2026-10"
+                    },
                 ]
             }
         ]
