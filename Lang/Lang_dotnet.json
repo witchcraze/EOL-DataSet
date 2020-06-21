@@ -1,0 +1,66 @@
+{
+    "Product": {
+        "Name": ".NET Core",
+        "Type": "Lang",
+        "Source_URLs": [
+            "https://dotnet.microsoft.com/platform/support/policy/dotnet-core",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle"
+        ],
+        "Supports": [
+            {
+                "Name": "End of Support",
+                "Type": "Community Base Service",
+                "Provider": "Microsoft/.Net Community",
+                "EOLs": [
+                    {
+                        "Version": "3.1",
+                        "Date": "2022-12-03"
+                    },
+                    {
+                        "Version": "3.0",
+                        "Date": "2020-03-03"
+                    },
+                    {
+                        "Version": "2.2",
+                        "Date": "2019-12-23"
+                    },
+                    {
+                        "Version": "2.1",
+                        "Date": "2021-08-21"
+                    },
+                    {
+                        "Version": "2.0",
+                        "Date": "2018-10-01"
+                    },
+                    {
+                        "Version": "1.1",
+                        "Date": "2019-06-27"
+                    },
+                    {
+                        "Version": "1.0",
+                        "Date": "2019-06-27"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "3.1",
+                        "Date": "2022-12"
+                    },
+                    {
+                        "Version": "3.0",
+                        "Date": "2020-03"
+                    },
+                    {
+                        "Version": "2.1",
+                        "Date": "2021-08"
+                    }
+                ]
+            }
+        ]
+    }
+}
