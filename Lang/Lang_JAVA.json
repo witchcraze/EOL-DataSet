@@ -1,0 +1,145 @@
+{
+    "Product": {
+        "Name": "OracleJAVA",
+        "Type": "Lang",
+        "Source_URLs": [
+            "https://www.oracle.com/java/technologies/java-se-support-roadmap.html",
+            "https://web.archive.org/web/*/https://www.oracle.com/technetwork/jp/java/eol-135779.html",
+            "https://web.archive.org/web/*/https://www.oracle.com/technetwork/jp/java/eol-135779-ja.html"
+        ],
+        "Supports": [
+            {
+                "Name": "Commercial User End of Public Updates",
+                "Type": "Free Use for Commercial User",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2019-01"
+                    }
+                ]
+            },
+            {
+                "Name": "End of Public Updates",
+                "Type": "Free Use for Commercial User/Personal User",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "10",
+                        "Date": "2018-09"
+                    },
+                    {
+                        "Version": "9",
+                        "Date": "2018-03"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2020-12"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2015-04"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2013-02"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2009-10"
+                    },
+                    {
+                        "Version": "4",
+                        "Date": "2008-10"
+                    }
+                ]
+            },
+            {
+                "Name": "Premier Support",
+                "Type": "Paid Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "15",
+                        "Date": "2021-03"
+                    },
+                    {
+                        "Version": "14",
+                        "Date": "2020-09"
+                    },
+                    {
+                        "Version": "13",
+                        "Date": "2020-03"
+                    },
+                    {
+                        "Version": "12",
+                        "Date": "2019-09"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2023-09"
+                    },
+                    {
+                        "Version": "10",
+                        "Date": "2018-09"
+                    },
+                    {
+                        "Version": "9",
+                        "Date": "2018-03"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2022-03"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2019-07"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2015-12"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2011-05"
+                    },
+                    {
+                        "Version": "4",
+                        "Date": "2010-02"
+                    }
+                ]
+            },
+            {
+                "Name": "Extended Support",
+                "Type": "Paid Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "11",
+                        "Date": "2026-09"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2030-12"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2022-07"
+                    },
+                    {
+                        "Version": "6",
+                        "Date": "2018-12"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2015-05"
+                    },
+                    {
+                        "Version": "4",
+                        "Date": "2013-02"
+                    }
+                ]
+            }
+        ]
+    }
+}
