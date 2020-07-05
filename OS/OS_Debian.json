@@ -14,18 +14,6 @@
                 "Provider": "Debian Community",
                 "EOLs": [
                     {
-                        "Version": "12",
-                        "Date": "TBD"
-                    },
-                    {
-                        "Version": "11",
-                        "Date": "TBD"
-                    },
-                    {
-                        "Version": "10",
-                        "Date": "TBD(~2022)"
-                    },
-                    {
                         "Version": "9",
                         "Date": "2020-07-06"
                     },
