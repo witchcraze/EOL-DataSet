@@ -1,0 +1,84 @@
+{
+    "Product": {
+        "Name": "OpenJDK",
+        "Type": "Lang",
+        "Source_URLs": [
+            "https://access.redhat.com/articles/1299013",
+            "https://adoptopenjdk.net/support.html",
+            "https://www.azul.com/products/zulu-community/",
+            "https://www.azul.com/products/azul-support-roadmap/",
+            "https://aws.amazon.com/jp/corretto/faqs/"
+        ],
+        "Supports": [
+            {
+                "Name": "OpenJDK from Red Hat",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "6",
+                        "Date": "2016-12"
+                    },
+                    {
+                        "Version": "7",
+                        "Date": "2020-06"
+                    },
+                    {
+                        "Version": "8",
+                        "Date": "2026-05"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2014-10"
+                    }
+                ]
+            },
+            {
+                "Name": "AdoptOpenJDK (Eclipse Adoptium)",
+                "Type": "Community Base Service",
+                "Provider": "Eclipse Foundation",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2026-05"
+                    },
+                    {
+                        "Version": "9",
+                        "Date": "2018-03"
+                    },
+                    {
+                        "Version": "10",
+                        "Date": "2018-09"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2024-10"
+                    },
+                    {
+                        "Version": "12",
+                        "Date": "2019-09"
+                    },
+                    {
+                        "Version": "13",
+                        "Date": "2020-03"
+                    }
+                ]
+            },
+            {
+                "Name": "Amazon Corretto",
+                "Type": "Community Base Service",
+                "Provider": "AWS",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2023-06"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2024-08"
+                    }
+                ]
+            }
+        ]
+    }
+}
