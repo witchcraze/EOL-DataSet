@@ -1,0 +1,66 @@
+{
+    "Product": {
+        "Name": "Apache",
+        "Type": "App",
+        "Source_URLs": [
+            "https://httpd.apache.org/",
+            "https://archive.apache.org/dist/httpd/",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "End-of-Life",
+                "Type": "Community Base Service",
+                "Provider": "Apache Community",
+                "EOLs": [
+                    {
+                        "Version": "2.2",
+                        "Date": "2017-07"
+                    },
+                    {
+                        "Version": "2.0",
+                        "Date": "2013-07"
+                    },
+                    {
+                        "Version": "1.3",
+                        "Date": "2010-03"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "2.4",
+                        "Date": "2029-05"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "2.4",
+                        "Date": "2024-06"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 6",
+                "Type": "Paid Service(RHEL6)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "2.4",
+                        "Date": "2020-11"
+                    }
+                ]
+            }
+        ]
+    }
+}
