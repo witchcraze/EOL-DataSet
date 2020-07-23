@@ -1,0 +1,46 @@
+{
+    "Product": {
+        "Name": "Apache Tomcat",
+        "Type": "App",
+        "Source_URLs": [
+            "https://tomcat.apache.org/whichversion.html"
+        ],
+        "Supports": [
+            {
+                "Name": "end of life",
+                "Type": "Community Base Service",
+                "Provider": "Apache Tomcat Community",
+                "EOLs": [
+                    {
+                        "Version": "10",
+                        "Date": ""
+                    },
+                    {
+                        "Version": "9",
+                        "Date": ""
+                    },
+                    {
+                        "Version": "8.5",
+                        "Date": ""
+                    },
+                    {
+                        "Version": "8.0",
+                        "Date": "2018-06-30"
+                    },
+                    {
+                        "Version": "7.0",
+                        "Date": "2021-03-31"
+                    },
+                    {
+                        "Version": "6.0",
+                        "Date": "2016-12-31"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2012-09-30"
+                    }
+                ]
+            }
+        ]
+    }
+}
