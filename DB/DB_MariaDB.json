@@ -1,0 +1,117 @@
+{
+    "Product": {
+        "Name": "MariaDB",
+        "Type": "DB",
+        "Source_URLs": [
+            "https://mariadb.org/about/#maintenance-policy",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "Five year boundary date",
+                "Type": "Community Service",
+                "Provider": "MariaDB Community",
+                "EOLs": [
+                    {
+                        "Version": "10.5",
+                        "Date": "2025-06-24"
+                    },
+                    {
+                        "Version": "10.4",
+                        "Date": "2024-06-18"
+                    },
+                    {
+                        "Version": "10.3",
+                        "Date": "2023-05-25"
+                    },
+                    {
+                        "Version": "10.2",
+                        "Date": "2022-05-23"
+                    },
+                    {
+                        "Version": "10.1",
+                        "Date": "2020-10-17"
+                    },
+                    {
+                        "Version": "10.0",
+                        "Date": "2019-03-31"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2020-04-11"
+                    },
+                    {
+                        "Version": "5.3",
+                        "Date": "2017-03-01"
+                    },
+                    {
+                        "Version": "5.2",
+                        "Date": "2015-11-10"
+                    },
+                    {
+                        "Version": "5.1",
+                        "Date": "2015-02-01"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "10.3",
+                        "Date": "2023-05"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "10.3",
+                        "Date": "2023-06"
+                    },
+                    {
+                        "Version": "10.2",
+                        "Date": "2020-10"
+                    },
+                    {
+                        "Version": "10.1",
+                        "Date": "2019-05"
+                    },
+                    {
+                        "Version": "10.0",
+                        "Date": "2018-04"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 6",
+                "Type": "Paid Service(RHEL6)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "10.2",
+                        "Date": "2020-10"
+                    },
+                    {
+                        "Version": "10.1",
+                        "Date": "2019-05"
+                    },
+                    {
+                        "Version": "10.0",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2016-10"
+                    }
+                ]
+            }
+        ]
+    }
+}
