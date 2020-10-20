@@ -1,0 +1,120 @@
+{
+    "Product": {
+        "Name": "MySQL",
+        "Type": "DB",
+        "Source_URLs": [
+            "https://www.oracle.com/us/assets/lifetime-support-technology-069183.pdf",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "Premier Support End",
+                "Type": "Paid Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "8.0",
+                        "Date": "2023-04"
+                    },
+                    {
+                        "Version": "5.7",
+                        "Date": "2020-10"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2018-02"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2015-12"
+                    },
+                    {
+                        "Version": "5.1",
+                        "Date": "2013-12"
+                    },
+                    {
+                        "Version": "5.0",
+                        "Date": "2011-12"
+                    }
+                ]
+            },
+            {
+                "Name": "Extended Support End",
+                "Type": "Paid Service",
+                "Provider": "Oracle",
+                "EOLs": [
+                    {
+                        "Version": "8.0",
+                        "Date": "2026-04"
+                    },
+                    {
+                        "Version": "5.7",
+                        "Date": "2023-10"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2021-02"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2018-12"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2023-04"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 7",
+                "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "8.0",
+                        "Date": "2023-04"
+                    },
+                    {
+                        "Version": "5.7",
+                        "Date": "2019-11"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2016-10"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Software Collections for Red Hat Enterprise Linux 6",
+                "Type": "Paid Service(RHEL6)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "5.7",
+                        "Date": "2019-11"
+                    },
+                    {
+                        "Version": "5.6",
+                        "Date": "2018-04"
+                    },
+                    {
+                        "Version": "5.5",
+                        "Date": "2016-10"
+                    }
+                ]
+            }
+        ]
+    }
+}
