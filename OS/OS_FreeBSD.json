@@ -13,6 +13,10 @@
                 "Provider": "FreeBSD  Community",
                 "EOLs": [
                     {
+                        "Version": "stable/13",
+                        "Date": "2026-01-31"
+                    },
+                    {
                         "Version": "stable/12",
                         "Date": "2024-06-30"
                     },
