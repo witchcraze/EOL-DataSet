@@ -13,6 +13,10 @@
                 "Provider": "Canonical / Ubunutu Community",
                 "EOLs": [
                     {
+                        "Version": "22.04",
+                        "Date": "2027-04"
+                    },
+                    {
                         "Version": "21.10",
                         "Date": "2022-07"
                     },
