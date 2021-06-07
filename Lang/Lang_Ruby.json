@@ -76,6 +76,10 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
+                        "Version": "3.0",
+                        "Date": "2024-06"
+                    },
+                    {
                         "Version": "2.7",
                         "Date": "2023-05"
                     },
