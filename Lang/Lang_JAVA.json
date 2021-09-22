@@ -60,6 +60,22 @@
                 "Provider": "Oracle",
                 "EOLs": [
                     {
+                        "Version": "21",
+                        "Date": "2028-09"
+                    },
+                    {
+                        "Version": "20",
+                        "Date": "2023-09"
+                    },
+                    {
+                        "Version": "19",
+                        "Date": "2023-03"
+                    },
+                    {
+                        "Version": "18",
+                        "Date": "2022-09"
+                    },
+                    {
                         "Version": "17",
                         "Date": "2026-09"
                     },
@@ -122,6 +138,10 @@
                 "Type": "Paid Service",
                 "Provider": "Oracle",
                 "EOLs": [
+                    {
+                        "Version": "21",
+                        "Date": "2031-09"
+                    },
                     {
                         "Version": "17",
                         "Date": "2029-09"
