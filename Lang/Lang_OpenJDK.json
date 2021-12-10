@@ -16,24 +16,24 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
-                        "Version": "6",
-                        "Date": "2016-12"
+                        "Version": "17",
+                        "Date": "2027-10"
                     },
                     {
-                        "Version": "7",
-                        "Date": "2020-06"
+                        "Version": "11",
+                        "Date": "2024-10"
                     },
                     {
                         "Version": "8",
                         "Date": "2026-05"
                     },
                     {
-                        "Version": "11",
-                        "Date": "2024-10"
-                    }
+                        "Version": "7",
+                        "Date": "2020-06"
+                    },
                     {
-                        "Version": "17",
-                        "Date": "2027-10"
+                        "Version": "6",
+                        "Date": "2016-12"
                     }
                 ]
             },
