@@ -13,6 +13,10 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
+                        "Version": "1.20",
+                        "Date": "2023-11"
+                    },
+                    {
                         "Version": "1.18",
                         "Date": "2022-11"
                     },
@@ -31,6 +35,10 @@
                 "Type": "Paid Service(RHEL7)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
+                    {
+                        "Version": "1.20",
+                        "Date": "2024-06"
+                    },
                     {
                         "Version": "1.18",
                         "Date": "2022-11"
