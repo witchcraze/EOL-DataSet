@@ -14,6 +14,14 @@
                 "Provider": "Node.js Community",
                 "EOLs": [
                     {
+                        "Version": "20",
+                        "Date": "2026-04-30"
+                    },
+                    {
+                        "Version": "19",
+                        "Date": "2023-06-01"
+                    },
+                    {
                         "Version": "18",
                         "Date": "2025-04-30"
                     },
