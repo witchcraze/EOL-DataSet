@@ -13,6 +13,10 @@
                 "Provider": "Red Hat",
                 "EOLs": [
                     {
+                        "Version": "9",
+                        "Date": "2032-05-31"
+                    },
+                    {
                         "Version": "8",
                         "Date": "2029-05-31"
                     },
@@ -43,6 +47,10 @@
                 "Type": "Paid-Service",
                 "Provider": "Red Hat",
                 "EOLs": [
+                    {
+                        "Version": "9",
+                        "Date": "2034-05-31"
+                    },
                     {
                         "Version": "8",
                         "Date": "2031-05-31"
