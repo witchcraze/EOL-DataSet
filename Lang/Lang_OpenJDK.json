@@ -94,6 +94,37 @@
                         "Date": "2027-09"
                     }
                 ]
+            },
+            {
+                "Name": "Eclipse Temurin",
+                "Type": "Community Base Service",
+                "Provider": "Eclipse",
+                "EOLs": [
+                    {
+                        "Version": "8",
+                        "Date": "2026-11"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2024-10"
+                    },
+                    {
+                        "Version": "16",
+                        "Date": "2021-09"
+                    },
+                    {
+                        "Version": "17",
+                        "Date": "2027-10"
+                    },
+                    {
+                        "Version": "18",
+                        "Date": "2022-09"
+                    },
+                    {
+                        "Version": "19",
+                        "Date": "2023-03"
+                    }
+                ]
             }
         ]
     }
