@@ -75,15 +75,15 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
-                        "Version": "7",
+                        "Version": "7.0",
                         "Date": "2024-05"
                     },
                     {
-                        "Version": "6",
+                        "Version": "6.0",
                         "Date": "2024-11"
                     },
                     {
-                        "Version": "5",
+                        "Version": "5.0",
                         "Date": "2022-05"
                     },
                     {
