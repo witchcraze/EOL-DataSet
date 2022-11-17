@@ -59,7 +59,16 @@
                 "Name": "Red Hat Enterprise Linux 9 Application Streams",
                 "Type": "Paid Service(RHEL9)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
                 "Provider": "Red Hat/OS Distribution Vendors",
-                "EOLs": []
+                "EOLs": [
+                    {
+                        "Version": "3.1",
+                        "Date": "2025-03"
+                    },
+                    {
+                        "Version": "3.0",
+                        "Date": "2032-05"
+                    }
+                ]
             },
             {
                 "Name": "Red Hat Enterprise Linux 8 Application Streams",
