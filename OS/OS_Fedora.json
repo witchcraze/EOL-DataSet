@@ -12,6 +12,10 @@
                 "Provider": "Fedora Project",
                 "EOLs": [
                     {
+                        "Version": "35",
+                        "Date": "2022-12-13"
+                    },
+                    {
                         "Version": "34",
                         "Date": "2022-06-07"
                     },
