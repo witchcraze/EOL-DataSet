@@ -10,7 +10,7 @@
             {
                 "Name": "End of Standard Support",
                 "Type": "Community Base Service",
-                "Provider": "Canonical / Ubunutu Community",
+                "Provider": "Canonical / Ubuntu Community",
                 "EOLs": [
                     {
                         "Version": "23.04",
@@ -169,7 +169,7 @@
             {
                 "Name": "Extended Security Maintenance",
                 "Type": "Paid-Service",
-                "Provider": "Canonical / Ubunutu Community",
+                "Provider": "Canonical / Ubuntu Community",
                 "EOLs": [
                     {
                         "Version": "20.04",
