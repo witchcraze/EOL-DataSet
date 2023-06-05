@@ -24,6 +24,10 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
+                        "Version": "1.22",
+                        "Date": "2025-11"
+                    },
+                    {
                         "Version": "1.20",
                         "Date": "2023-11"
                     },
