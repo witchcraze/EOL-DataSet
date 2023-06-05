@@ -15,6 +15,10 @@
                 "Provider": "Python Community",
                 "EOLs": [
                     {
+                        "Version": "3.12",
+                        "Date": "2028-10"
+                    },
+                    {
                         "Version": "3.11",
                         "Date": "2027-10"
                     },
