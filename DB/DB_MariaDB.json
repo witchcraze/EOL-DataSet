@@ -14,6 +14,10 @@
                 "Provider": "MariaDB Community",
                 "EOLs": [
                     {
+                        "Version": "11.1",
+                        "Date": "2024-08"
+                    },
+                    {
                         "Version": "11.0",
                         "Date": "2024-06"
                     },
