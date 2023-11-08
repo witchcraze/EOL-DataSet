@@ -13,6 +13,10 @@
                 "Provider": "Canonical / Ubuntu Community",
                 "EOLs": [
                     {
+                        "Version": "24.04",
+                        "Date": "2029-06"
+                    },
+                    {
                         "Version": "23.10",
                         "Date": "2024-07"
                     },
