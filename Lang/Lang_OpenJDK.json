@@ -12,6 +12,12 @@
         "Supports": [
             {
                 "Name": "OpenJDK from Red Hat",
+                "Type": "ELS-1",
+                "Provider": "Red Hat",
+                "EOLs": []
+            },
+            {
+                "Name": "OpenJDK from Red Hat",
                 "Type": "Paid Service(RHEL)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
