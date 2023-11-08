@@ -60,6 +60,10 @@
                 "Provider": "Oracle",
                 "EOLs": [
                     {
+                        "Version": "25",
+                        "Date": "2033-09"
+                    },
+                    {
                         "Version": "24",
                         "Date": "2025-09"
                     },
