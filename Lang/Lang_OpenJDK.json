@@ -15,7 +15,11 @@
                 "Type": "ELS-1",
                 "Provider": "Red Hat",
                 "EOLs": []
-            },
+                    {
+                    "Version": "11",
+                    "Date": "2027-10"
+                }
+            }
             {
                 "Name": "OpenJDK from Red Hat",
                 "Type": "Paid Service(RHEL)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
