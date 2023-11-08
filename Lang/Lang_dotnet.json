@@ -60,6 +60,10 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
+                        "Version": "8",
+                        "Date": "2026-11"
+                    },
+                    {
                         "Version": "7",
                         "Date": "2024-05"
                     },
