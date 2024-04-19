@@ -155,6 +155,10 @@
                 "Provider": "Oracle",
                 "EOLs": [
                     {
+                        "Version": "25",
+                        "Date": "2033-09"
+                    },
+                    {
                         "Version": "21",
                         "Date": "2031-09"
                     },
