@@ -14,11 +14,15 @@
                 "EOLs": [
                     {
                         "Version": "stable/14",
-                        "Date": "2028-11-33"
+                        "Date": "2028-11-30"
                     },
                     {
                         "Version": "stable/13",
                         "Date": "2026-01-31"
+                    },
+                    {
+                        "Version": "releng/13.2",
+                        "Date": "2024-06-30"
                     },
                     {
                         "Version": "releng/13.1",
