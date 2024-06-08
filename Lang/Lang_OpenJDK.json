@@ -58,6 +58,14 @@
                 "Provider": "Eclipse Foundation",
                 "EOLs": [
                     {
+                        "Version": "22",
+                        "Date": "2024-09"
+                    },
+                    {
+                        "Version": "21",
+                        "Date": "2029-12"
+                    },
+                    {
                         "Version": "20",
                         "Date": "2023-09"
                     },
