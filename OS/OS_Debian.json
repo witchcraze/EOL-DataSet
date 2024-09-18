@@ -14,6 +14,10 @@
                 "Provider": "Debian Community",
                 "EOLs": [
                     {
+                        "Version": "12",
+                        "Date": "2026-06-10"
+                    },
+                    {
                         "Version": "11",
                         "Date": "2024-08-14"
                     },
@@ -69,8 +73,20 @@
                 "Provider": "Debian Community",
                 "EOLs": [
                     {
+                        "Version": "12",
+                        "Date": "2028-06-30"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2026-08-31"
+                    },
+                    {
+                        "Version": "10",
+                        "Date": "2024-06-30"
+                    },
+                    {
                         "Version": "9",
-                        "Date": "TBD(~2022)"
+                        "Date": "2022-07-01"
                     },
                     {
                         "Version": "8",
@@ -96,12 +112,24 @@
                 "Provider": "Freexian",
                 "EOLs": [
                     {
+                        "Version": "12",
+                        "Date": "2033-06-30"
+                    },
+                    {
+                        "Version": "11",
+                        "Date": "2031-06-30"
+                    },
+                    {
+                        "Version": "10",
+                        "Date": "2029-06-30"
+                    },
+                    {
                         "Version": "9",
-                        "Date": "TBD"
+                        "Date": "2027-06-30"
                     },
                     {
                         "Version": "8",
-                        "Date": "TBD"
+                        "Date": "2025-06-30"
                     },
                     {
                         "Version": "7",
