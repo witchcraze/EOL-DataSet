@@ -14,6 +14,10 @@
                 "Provider": "PostgreSQL Community",
                 "EOLs": [
                     {
+                        "Version": "17",
+                        "Date": "2029-11-08"
+                    },
+                    {
                         "Version": "16",
                         "Date": "2028-11-09"
                     },
