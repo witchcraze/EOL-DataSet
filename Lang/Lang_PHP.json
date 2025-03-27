@@ -15,6 +15,10 @@
                 "Provider": "PHP Community",
                 "EOLs": [
                     {
+                        "Version": "8.4",
+                        "Date": "2028-12-31"
+                    },
+                    {
                         "Version": "8.3",
                         "Date": "2027-12-31"
                     },
