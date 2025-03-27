@@ -1,0 +1,40 @@
+{
+    "Product": {
+        "Name": "Redis",
+        "Type": "DB",
+        "Source_URLs": [
+            "https://github.com/redis/redis/security",
+            "https://redis.io/docs/latest/operate/rs/installing-upgrading/product-lifecycle/",
+            "https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle",
+            "https://access.redhat.com/support/policy/updates/rhscl"
+        ],
+        "Supports": [
+            {
+                "Name": "Red Hat Enterprise Linux 9 Application Streams",
+                "Type": "Paid Service(RHEL9)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "7",
+                        "Date": "2026-11"
+                    }
+                ]
+            },
+            {
+                "Name": "Red Hat Enterprise Linux 8 Application Streams",
+                "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
+                "Provider": "Red Hat/OS Distribution Vendors",
+                "EOLs": [
+                    {
+                        "Version": "6",
+                        "Date": "2029-05"
+                    },
+                    {
+                        "Version": "5",
+                        "Date": "2022-05"
+                    }
+                ]
+            }
+       ]
+    }
+}
