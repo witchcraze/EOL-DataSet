@@ -115,7 +115,7 @@
                 "EOLs": [
                     {
                         "Version": "8.3",
-                        "Date": "2035-05"
+                        "Date": "2029-05"
                     }
                 ]
             },
@@ -124,6 +124,10 @@
                 "Type": "Paid Service(RHEL8)/Special Service(RHEL UBI)/Community Base Service(Free Red Hat Enterprise Linux derivatives)",
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
+                    {
+                        "Version": "8.3",
+                        "Date": "2029-05"
+                    },
                     {
                         "Version": "8.2",
                         "Date": "2029-05"
