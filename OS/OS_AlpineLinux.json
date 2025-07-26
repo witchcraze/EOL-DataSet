@@ -12,6 +12,10 @@
                 "Provider": "Alpine Linux Community",
                 "EOLs": [
                     {
+                        "Version": "3.22",
+                        "Date": "2027-05-01"
+                    },
+                    {
                         "Version": "3.21",
                         "Date": "2026-11-01"
                     },
