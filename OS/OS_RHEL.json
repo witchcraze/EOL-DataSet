@@ -13,6 +13,10 @@
                 "Provider": "Red Hat",
                 "EOLs": [
                     {
+                        "Version": "10",
+                        "Date": "2035-05-31"
+                    },
+                    {
                         "Version": "9",
                         "Date": "2032-05-31"
                     },
