@@ -14,6 +14,10 @@
                 "Provider": "Perl Community",
                 "EOLs": [
                     {
+                        "Version": "5.38",
+                        "Date": "2025-04-13"
+                    },
+                    {
                         "Version": "5.36",
                         "Date": "2023-11-29"
                     },
