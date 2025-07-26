@@ -147,6 +147,10 @@
                 "Provider": "Red Hat/OS Distribution Vendors",
                 "EOLs": [
                     {
+                        "Version": "22",
+                        "Date": "2027-04"
+                    },
+                    {
                         "Version": "20",
                         "Date": "2026-04"
                     },
