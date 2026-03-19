@@ -12,6 +12,10 @@
                 "Provider": "Samba Community",
                 "EOLs": [
                     {
+                        "Version": "4.24",
+                        "Date": "2027-09"
+                    },
+                    {
                         "Version": "4.23",
                         "Date": "2027-03"
                     },
