@@ -13,6 +13,10 @@
                 "Provider": "Microsoft/.Net Community",
                 "EOLs": [
                     {
+                        "Version": "10",
+                        "Date": "2028-11-14"
+                    },
+                    {
                         "Version": "9",
                         "Date": "2026-05-12"
                     },
